@@ -1,9 +1,9 @@
 <template>
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <ToDo/>
 </template>
 
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import ToDo from './components/ToDo.vue';
 </script>
 
 <style>
